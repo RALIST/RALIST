@@ -3,7 +3,6 @@
 I am a fullstack software engineer
 - 🔭 Working on multiple frontend and backend project using Ruby on Rails, Javasript, React
 - 🌱 Learning design patterns in depth
-## Connect with me
 
 ## Expertise
 - Ruby On Rails
@@ -11,6 +10,8 @@ I am a fullstack software engineer
 - PostgreSQL
 - Haml
 - Javascript
+
+## Links
 <!--
 **RALIST/RALIST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

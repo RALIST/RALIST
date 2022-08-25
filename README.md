@@ -10,6 +10,7 @@ I am a fullstack software engineer
 - PostgreSQL
 - Haml
 - Javascript
+- NextJs | React
 
 ## Links
 <!--
